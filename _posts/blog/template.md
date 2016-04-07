@@ -9,4 +9,4 @@ category: blog
 
 
 
-[BeiYuu]:    http://beiyuu.com  "BeiYuu"
+[Mingo]:    http://mingozone.com  "Mingo"
