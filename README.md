@@ -1,17 +1,10 @@
-##说明
+#一点点说明
 
-2016-03-22
+这是[BeiYuu.com](http://beiyuu.com)的示例代码，如果你看了[使用Github Pages建独立博客](http://beiyuu.com/github-pages/)，希望看下去哦：
 
-此乃 多佛朗敏哥的博客 ，感谢。
-
-##读立写生
-
-我是刘敏，博客：[MingoZone.com](mingozone.com)
-
-**个人博客第一篇** 。
-
-##友情出演
-- vilia misto成员
-
-
-
+* 马上动手，很赞
+* 感谢认可
+* 推荐阅读：[我为什么写博客？](http://beiyuu.com/why-blog/)
+* 想复用我的设计，没问题，标个出处就好啦
+* 转载也没问题，标个出处呗少年
+* 恩，认真的童鞋最可爱啦~
