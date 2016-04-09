@@ -23,6 +23,4 @@ layout: home
         {% endfor %}
         </ul>
     </div>
-    <div class="aside">
-    </div>
 </div>
