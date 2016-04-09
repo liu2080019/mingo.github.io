@@ -61,6 +61,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-position:left top;
     background-image: url("http://oss-hz.qianmi.com/x-site/public/images/mingo/background4.jpg");
     background-color: #ccc;
+    background-size: cover;
 } 
 /****************entry style**************/
 .sidenav { width:240px; background:#fff; float:right; padding:20px; margin-bottom:50px; box-shadow:0 1px 4px #ccc; }
